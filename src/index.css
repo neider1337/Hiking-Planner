@@ -1,0 +1,11 @@
+/* 🔥 NA SAMEJ GÓRZE */
+html, body, #root {
+  height: 100% !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* potem Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
